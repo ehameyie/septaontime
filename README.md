@@ -12,6 +12,9 @@ v0.1 -- Prototype
 
 ## Team
 Chuck Clift - Database Architecture
+
 Kushal Mogili - Backend Architecture
+
 Eunice Hameyie - Predictive Analytics
+
 Andrew Rodebaugh - User Interface
